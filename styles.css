@@ -1,0 +1,37 @@
+body {
+  background-color: white;
+}
+body legend {
+  color: black;
+}
+body ol {
+  list-style-type: disc;
+}
+body ol li.primero {
+  background-color: rgba(0, 0, 255, 0.769);
+  border: 1.5px dotted black;
+}
+body ol li.segundo {
+  background-color: green;
+  border: 1.5px dotted black;
+}
+body ol li.tercero {
+  background-color: orange;
+  border: 1.5px dotted black;
+}
+body ol li.cuarto {
+  background-color: aqua;
+  border: 1.5px dotted black;
+}
+body ol li.quinto {
+  background-color: red;
+  border: 1.5px dotted black;
+}
+body .container {
+  width: 70%;
+  margin: auto;
+  border-radius: 10px;
+  border: 1px solid yellow;
+  padding: 20px;
+  background-color: yellow;
+}
